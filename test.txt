@@ -1,2 +1,4 @@
 want to make some conflict!
 hi i'm new file
+
+hehe this will be a conflict file!!!
